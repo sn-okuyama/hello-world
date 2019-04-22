@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Hi!
+
+I suck at coding.
